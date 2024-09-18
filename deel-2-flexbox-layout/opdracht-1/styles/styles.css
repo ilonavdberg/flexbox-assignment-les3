@@ -6,7 +6,7 @@ body {
 }
 
 header, footer {
-    flex-basis: 100px;
+    flex: 0 0 100px;
 }
 
 main {
@@ -18,7 +18,7 @@ main {
 }
 
 article {
-    flex: 3 0 auto;
+    flex: 0 0 60vw;
 }
 
 nav {
